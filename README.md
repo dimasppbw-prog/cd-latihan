@@ -1,0 +1,2 @@
+# cd-latihan
+git init
